@@ -13,7 +13,7 @@ I'm currently working on the Pitlane app, a project that will help me learn more
 
 99adamzapior@gmail.com
 
-[Linkedin](www.linkedin.com/in/adamzapior) 
+[Linkedin](https://www.linkedin.com/in/adamzapior/) 
 
 
 
