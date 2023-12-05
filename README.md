@@ -4,10 +4,22 @@ I am aspiring junior iOS developer with prior experience in banking and sales. M
 
 ## 📱 Projects 
 
-My primary project is the [BetTracker](https://github.com/adamzapior/BetTracker) - app designed for recording and analyzing betting statistics.
-I have significantly expanded my knowledge of SwiftUI and the Combine library through the creation of this application. I'd like to extend an invitation for you to look over the project, get more information, and examine my code.
+➤ [BetTracker - bets analyzer](https://github.com/adamzapior/BetTracker) - my first public app created for portfolio and AppStore, designed for recording and analyzing betting statistics.
+In the future, I want to focus on adding new features - mainly better statistics with SwiftCharts and WidgetKit. 
 
-I'm currently working on the Pitlane app, a project that will help me learn more about UIKit and how to use REST APIs. I would also like to expand my knowledge of Core Data.
+**Technologies:** _Swift, SwiftUI, Combine, GRDB, Local notifications, UserDefaults + MVVM architecture_
+
+#
+
+➤ [Pitlane - F1 stats tracker](https://github.com/adamzapior/Pitlane) - simple Formula 1 stats tracker based on public Ergast API. The main goal of the application was to implement DTO and programmatic UI, which adapts to different font sizes (accessibility).
+
+**Technologies:** _Swift, UIKit, Alamofire, 3rd party libraries: SnapKit, FlagKit + MVC architecture_
+
+# 
+
+➤ [Yem - recipe manager with shoping list and cooking mode](https://github.com/adamzapior/Yem) - work in progress
+
+**Technologies:** _Swift, UIKit, Combine, CoreData + VIPER architecture_
 
 ## ✉️ Contact 
 
