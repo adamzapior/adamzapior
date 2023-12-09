@@ -17,9 +17,9 @@ In the future, I want to focus on adding new features - mainly better statistics
 
 # 
 
-➤ [Yem - recipe manager with shoping list and cooking mode](https://github.com/adamzapior/Yem) - work in progress
+➤ [Yem - recipe manager with shoping list](https://github.com/adamzapior/Yem) - work in progress
 
-**Technologies:** _Swift, UIKit, Combine, CoreData + VIPER architecture_
+**Technologies:** _Swift, UIKit, Combine, CoreData + MVVM architecture_
 
 ## ✉️ Contact 
 
