@@ -1,6 +1,5 @@
 ## 👋 Hi, I'm Adam 
 
-I am aspiring iOS developer with prior experience in banking and sales. My immediate goal is to further hone my skills in mobile development.
 
 ## 📱 Projects 
 
