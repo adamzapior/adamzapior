@@ -1,3 +1,2 @@
-## 👋&nbsp; Hi, I'm Adam 
-
+## 👋&nbsp; Hi
 
